@@ -1,6 +1,6 @@
 # Welcome!
 
-To complete installation, go to [ollama.com/](https://ollama.com/download/) and run the installer.
+To complete installation, go to [the ollama website](https://ollama.com/download/) and download and run the installer.
 
 Run `ollama pull llama2` or `ollama pull llama3` in a terminal.
 
